@@ -1,0 +1,16 @@
+C:\Users\krish\workspace\csharp\HeistPlan\bin\Debug\net5.0\HeistPlan.exe
+C:\Users\krish\workspace\csharp\HeistPlan\bin\Debug\net5.0\HeistPlan.deps.json
+C:\Users\krish\workspace\csharp\HeistPlan\bin\Debug\net5.0\HeistPlan.runtimeconfig.json
+C:\Users\krish\workspace\csharp\HeistPlan\bin\Debug\net5.0\HeistPlan.runtimeconfig.dev.json
+C:\Users\krish\workspace\csharp\HeistPlan\bin\Debug\net5.0\HeistPlan.dll
+C:\Users\krish\workspace\csharp\HeistPlan\bin\Debug\net5.0\ref\HeistPlan.dll
+C:\Users\krish\workspace\csharp\HeistPlan\bin\Debug\net5.0\HeistPlan.pdb
+C:\Users\krish\workspace\csharp\HeistPlan\obj\Debug\net5.0\HeistPlan.csproj.AssemblyReference.cache
+C:\Users\krish\workspace\csharp\HeistPlan\obj\Debug\net5.0\HeistPlan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krish\workspace\csharp\HeistPlan\obj\Debug\net5.0\HeistPlan.AssemblyInfoInputs.cache
+C:\Users\krish\workspace\csharp\HeistPlan\obj\Debug\net5.0\HeistPlan.AssemblyInfo.cs
+C:\Users\krish\workspace\csharp\HeistPlan\obj\Debug\net5.0\HeistPlan.csproj.CoreCompileInputs.cache
+C:\Users\krish\workspace\csharp\HeistPlan\obj\Debug\net5.0\HeistPlan.dll
+C:\Users\krish\workspace\csharp\HeistPlan\obj\Debug\net5.0\ref\HeistPlan.dll
+C:\Users\krish\workspace\csharp\HeistPlan\obj\Debug\net5.0\HeistPlan.pdb
+C:\Users\krish\workspace\csharp\HeistPlan\obj\Debug\net5.0\HeistPlan.genruntimeconfig.cache
