@@ -69,6 +69,7 @@ namespace Heist
             int trials = int.Parse(Console.ReadLine());
 
             int Report = 0;
+            int BadReport = 0;
         
         
             for(int i = 0; i < trials; i++)
@@ -85,9 +86,11 @@ namespace Heist
             }
             else {
                 Console.WriteLine("You failed and you are a failure.");
+                BadReport++;
             }
     };
             Console.WriteLine($" You were successful {Report} amount of times!");
+            Console.WriteLine($" You were a failure {BadReport} times!");
             TeamMember member = new TeamMember(name, skill, courage);
             newTeam.Description();
         }
